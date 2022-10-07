@@ -1,4 +1,5 @@
 A Flashcard Revision program to test students on concepts and recommend students dates to restudy content based on their test results.
+Also included is a Project Plan for this project
 Demo Video Testing: https://youtu.be/nWsAjVKtzVM
 You are able to:
 
